@@ -128,7 +128,7 @@ margin-bottom: 30px;
 /* cta */
 .cta{
   margin: 80px 0;
-  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("/my-js-projects/tribal/assets/homee.jpeg");
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("/my-js-projects/tribal/assets/homee\ copy.jpeg");
   background-position: center;
   background-size: cover;
   padding: 5%;
